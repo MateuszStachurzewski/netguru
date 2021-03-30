@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^6.8.0",
+    "faker": "^5.5.1"
+  },
+  "scripts": {
+    "open": "cypress open",
+    "app": "cypress run --headless --browser chrome"
+  }
+}

@@ -1,0 +1,7 @@
+# For local test run only:
+# set -o allexport
+# source ./env_example
+# set +o allexport
+
+# Frontend url without `/` at end
+CYPRESS_baseUrl=https://www.eobuwie.com.pl
